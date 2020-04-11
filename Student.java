@@ -1,4 +1,17 @@
+public class Faculty{
+	Student student;
+	String Ime;
 
+	void prosekSite(){
+		double prosek;
+		int brojac=0;
+		for(int i=0; i<students.length; i++){
+			prosek+=students.getAverage;
+			brojac++;
+		}
+		System.out.println(prosek/brojac);
+	}
+}
 public class Student {
 	String index;
 	String firstName;

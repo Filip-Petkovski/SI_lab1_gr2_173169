@@ -1,5 +1,6 @@
 123456, Aleksandar, Aleksovski, 7, 8, 5, 9, 8, 7. 
 234567, Bojan, Bojkovski, 9, 8, 7, 5, 5, 6. 
+<<<<<<< HEAD
 345678, Vedran, Vedrovski, 5, 8, 5, 8, 5, 8.
 456789, Goran, Gordev, 7, 8, 9, 9, 8, 7.
 567891, Dejan, Davkov, 9, 9, 9, 9, 9, 9.
@@ -11,3 +12,10 @@
 
 
 
+=======
+345678, Vedran, Vedrovski, 5, 5, 5, 5, 5, 8.
+456789, Goran, Gordev, 7, 8, 9, 9, 8, 7.
+567891, Dejan, Davkov, 9, 9, 9, 9, 9, 9.
+258963, aaaa, aaaaa, 7, 8, 8, 9, 8, 7.
+985632, bbbb, bbbbb, 8, 5, 5, 5, 6, 9.
+>>>>>>> facultyFeature
